@@ -1,10 +1,3 @@
-/*
- * OLED_Data.c
- *
- *  Created on: 2024年5月31日
- *      Author: hejunlin
- */
-
 #include "OLED_Data.h"
 
 /**
