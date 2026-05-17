@@ -1,9 +1,3 @@
-/*
- * OLED.c
- *
- *  Created on: 2024年5月31日
- *      Author: hejunlin
- */
 #include "main.h"
 #include "OLED.h"
 #include <string.h>
