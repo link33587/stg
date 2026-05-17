@@ -1,10 +1,3 @@
-/*
- * OLED_Data.h
- *
- *  Created on: 2024年5月31日
- *      Author: hejunlin
- */
-
 #ifndef INC_OLED_DATA_H_
 #define INC_OLED_DATA_H_
 #ifdef __cplusplus
